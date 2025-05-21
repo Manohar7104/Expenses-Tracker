@@ -1,6 +1,6 @@
 # Expense Tracker Web App
 
-A lightweight, client‑side application for recording daily expenses, built with **HTML**, **CSS**, and **Vanilla JavaScript**.  
+A lightweight, client‑side application for recording daily expenses, built with **HTML**, **CSS**, and **JavaScript**.  
 The app stores data in **localStorage**, so your expense history persists between sessions without any backend.
 
 ## Features
@@ -61,5 +61,17 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 This project is open‑sourced under the MIT License.
 
+## 📸 Screenshots
 
+### 🖥️ Main Dashboard
+![Main UI](screenshots/sc1.png)
+
+### ➕ Add Expense Form
+![Add Form](screenshots/sc2.png)
+
+### 📊 Expense Table with Total
+![Expense Table](screenshots/sc3.png)
+
+### 🧾 Responsive Design / Layout
+![Responsive View](screenshots/sc4.png)
 
