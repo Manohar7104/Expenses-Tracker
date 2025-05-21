@@ -66,12 +66,9 @@ This project is open‑sourced under the MIT License.
 ### 🖥️ Main Dashboard
 ![Main UI](screenshots/sc1.png)
 
-### ➕ Add Expense Form
-![Add Form](screenshots/sc2.png)
+### ➕ Add Expense 
+![Add Form](screenshots/sc2.png) (screenshots/sc3.png)
 
-### 📊 Expense Table with Total
-![Expense Table](screenshots/sc3.png)
-
-### 🧾 Responsive Design / Layout
+### 🧾 Expense Table with Total
 ![Responsive View](screenshots/sc4.png)
 
